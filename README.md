@@ -130,3 +130,4 @@ cd ~/.agent-reach/tools/wechat-article-for-ai && python3 main.py "URL"
 ## License
 
 MIT
+skills add EdisonChenAI/agent-reach
